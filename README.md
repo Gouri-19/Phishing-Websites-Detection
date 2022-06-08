@@ -4,8 +4,13 @@ There are various phishing detecting techniques. We have taken the URL-based typ
 <hr>
 The main objective of the project is to show how phishing attacks can be detected using machine learning models. The performance of the models used will be compared to find the best fit for the purpose of detection.The machine learning algorithms we used, will examine numerous banned and valid URLs and their attributes in order to properly detect phishing websites, including zero-hour phishing websites. The main objective of using machine learning models to detect phishing attacks in websites is because machine learning models have always shown promising results for classifying hostile behaviors like phishing attacks. 
 <hr>
+<b>Dataset:</b>
+<br>
+The data is taken from UCI repository’s ‘Phishing website detection’ dataset. This dataset describes the different parameters to judge whether a website is a phishing website or not. It consists of different attributes with information regarding a website URL which will determine if it belongs to a phishing website or not.
+<hr>
 <b> Methodology Used:</b>
-Machine learning has shown to be an effective approach for classifying hostile behaviors or artifacts such as phishing websites. The majority of these approaches need training data, which is luckily available in the form of phishing website samples that can be used to train a machine learning model. For the project, the dataset was collected from the UCI on phishing website URLs. The dataset has 31 features and 11055 records.
+<br>
+Machine learning has shown to be an effective approach for classifying hostile behaviors or artifacts such as phishing websites. The majority of these approaches need training data, which is luckily available in the form of phishing website samples that can be used to train a machine learning model. For the project, the dataset was collected from the UCI on phishing website URLs.
 <br>
 The machine learning models used for phishing websites detection are;
 <ul>
