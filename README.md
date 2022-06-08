@@ -15,6 +15,6 @@ Machine learning has shown to be an effective approach for classifying hostile b
 The machine learning models used for phishing websites detection are;
 <ul>
   <li>Random Forest Classification uses a process in which n-number of decision trees are generated from the training data and then testing data is applied on these decision trees to conclude the accuracy of the model and its efficiency in new test data. Larger number of decision trees makes the random forest algorithm more accurate.</li> 
-  <li?Logistic regression is a supervised classification algorithm. For a given collection of characteristics (or inputs), X, the target variable (or output), y, can only take discrete values in a classification issue. A linear relationship between input and output variables is not required for logistic regression.</li>
+  <li>Logistic regression is a supervised classification algorithm. For a given collection of characteristics (or inputs), X, the target variable (or output), y, can only take discrete values in a classification issue. A linear relationship between input and output variables is not required for logistic regression.</li>
   <li>A Neural Network is made up of layers that are connected to operate on the structure and function of the human brain. It learns from massive amounts of data and trains a neural network using complicated algorithms. A recurrent neural network (RNN) is a form of artificial neural network that works with time series or sequential data.</li>
 </ul>
